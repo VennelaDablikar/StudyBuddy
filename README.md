@@ -1,3 +1,4 @@
+Video link of this project:https://drive.google.com/file/d/1aRVCBwHhKUwJQUZh5JZU7Jcx8zXFh7e-/view?usp=sharing
 # 📚 StudyBuddy — AI-Powered Study Companion
 
 > A full-stack web application that helps students organize courses, manage notes, upload PDFs, generate AI-powered summaries, take quizzes, and track study progress — all in one beautiful, premium interface.
