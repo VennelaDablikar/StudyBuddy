@@ -1,0 +1,12 @@
+/* index.css — Minimal global reset */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #F8FAFC;
+}
